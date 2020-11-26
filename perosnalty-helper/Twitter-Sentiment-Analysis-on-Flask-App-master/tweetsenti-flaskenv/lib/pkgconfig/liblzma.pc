@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/mac/Desktop/my flask apps/Twitter-Sentiment-Analysis-on-Flask-App-master/tweetsenti-flaskenv
+exec_prefix=/Users/mac/Desktop/my flask apps/Twitter-Sentiment-Analysis-on-Flask-App-master/tweetsenti-flaskenv
+libdir=/Users/mac/Desktop/my flask apps/Twitter-Sentiment-Analysis-on-Flask-App-master/tweetsenti-flaskenv/lib
+includedir=/Users/mac/Desktop/my flask apps/Twitter-Sentiment-Analysis-on-Flask-App-master/tweetsenti-flaskenv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.5
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -Qunused-arguments -pthread -lpthread

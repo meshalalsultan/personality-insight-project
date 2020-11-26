@@ -1,0 +1,11 @@
+prefix=/Users/mac/Desktop/my flask apps/Twitter-Sentiment-Analysis-on-Flask-App-master/tweetsenti-flaskenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/mac/Desktop/my flask apps/Twitter-Sentiment-Analysis-on-Flask-App-master/tweetsenti-flaskenv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

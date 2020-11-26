@@ -1,0 +1,261 @@
+{
+  "build": "py38h32f6830_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "extracted_package_dir": "/Users/meshal10/Developer/miniconda3/pkgs/speechrecognition-3.7.1-py38h32f6830_2",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/LICENSE-FLAC.txt",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/LICENSE.txt",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/METADATA",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/RECORD",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/WHEEL",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/speech_recognition/__init__.py",
+    "lib/python3.8/site-packages/speech_recognition/__main__.py",
+    "lib/python3.8/site-packages/speech_recognition/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/speech_recognition/__pycache__/__main__.cpython-38.pyc",
+    "lib/python3.8/site-packages/speech_recognition/flac-linux-x86",
+    "lib/python3.8/site-packages/speech_recognition/flac-linux-x86_64",
+    "lib/python3.8/site-packages/speech_recognition/flac-mac",
+    "lib/python3.8/site-packages/speech_recognition/flac-win32.exe",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/LICENSE.txt",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/README",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/means",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/sendump",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/transition_matrices",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/language-model.lm.bin",
+    "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/pronounciation-dictionary.dict"
+  ],
+  "fn": "speechrecognition-3.7.1-py38h32f6830_2.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/meshal10/Developer/miniconda3/pkgs/speechrecognition-3.7.1-py38h32f6830_2",
+    "type": 1
+  },
+  "md5": "46ee1412ee6b4c170b15bf794af139e6",
+  "name": "speechrecognition",
+  "package_tarball_full_path": "/Users/meshal10/Developer/miniconda3/pkgs/speechrecognition-3.7.1-py38h32f6830_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/LICENSE-FLAC.txt",
+        "path_type": "hardlink",
+        "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "sha256_in_prefix": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "size_in_bytes": 18092
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "5d46ec78ee756d5335d47a3e50359e54ca56c0adaa76a2d66e92195fde97d745",
+        "sha256_in_prefix": "5d46ec78ee756d5335d47a3e50359e54ca56c0adaa76a2d66e92195fde97d745",
+        "size_in_bytes": 1519
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "def1defee6bddeeb35c84db5fcffe7b353af705fdac509386224dce5415d7b45",
+        "sha256_in_prefix": "def1defee6bddeeb35c84db5fcffe7b353af705fdac509386224dce5415d7b45",
+        "size_in_bytes": 28247
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fc776945f5bbe5bae4ee3c5eb32e1b83d17161f5899ea2532f92159b89946519",
+        "sha256_in_prefix": "fc776945f5bbe5bae4ee3c5eb32e1b83d17161f5899ea2532f92159b89946519",
+        "size_in_bytes": 2899
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "sha256_in_prefix": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "814d7819398cfa94bfd9c6b0567a97664ba4b5c0cdac38e5fccbc21e4da0b78d",
+        "sha256_in_prefix": "814d7819398cfa94bfd9c6b0567a97664ba4b5c0cdac38e5fccbc21e4da0b78d",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.8/site-packages/SpeechRecognition-3.7.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8897db14c3827032fb31d872b2ae0bb1b9e2c13bfa12d411f016e01272a53c8c",
+        "sha256_in_prefix": "8897db14c3827032fb31d872b2ae0bb1b9e2c13bfa12d411f016e01272a53c8c",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "36ad3465c2b9f89a52218a11d64b757ac31a6ea8794fbc00ec6c78f20fd14f93",
+        "sha256_in_prefix": "36ad3465c2b9f89a52218a11d64b757ac31a6ea8794fbc00ec6c78f20fd14f93",
+        "size_in_bytes": 75868
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "dc5eeeb087dfb5aac71599fcc44a28a4a97ddcccf20a91402bba2e2618aa399a",
+        "sha256_in_prefix": "dc5eeeb087dfb5aac71599fcc44a28a4a97ddcccf20a91402bba2e2618aa399a",
+        "size_in_bytes": 1181
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "763278f2ac43d3e269421aa1a193a5a05c96704cfd2488379adf9d680828c4ef",
+        "sha256_in_prefix": "763278f2ac43d3e269421aa1a193a5a05c96704cfd2488379adf9d680828c4ef",
+        "size_in_bytes": 53218
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/__pycache__/__main__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3b50fbfaf3931578c79096d53435b69d6ac89582f6e451f6bb57955de5a0a6a8",
+        "sha256_in_prefix": "3b50fbfaf3931578c79096d53435b69d6ac89582f6e451f6bb57955de5a0a6a8",
+        "size_in_bytes": 953
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/flac-linux-x86",
+        "path_type": "hardlink",
+        "sha256": "14e524f8c026a8ed75cfb1a64f84f21c82674596835d968156c879c9f3f593c8",
+        "sha256_in_prefix": "14e524f8c026a8ed75cfb1a64f84f21c82674596835d968156c879c9f3f593c8",
+        "size_in_bytes": 1899154
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/flac-linux-x86_64",
+        "path_type": "hardlink",
+        "sha256": "d24ebe8bd5ccdafc64f522a62ae2fed3fb74011adfeedb3d3deaa6bb4611df84",
+        "sha256_in_prefix": "d24ebe8bd5ccdafc64f522a62ae2fed3fb74011adfeedb3d3deaa6bb4611df84",
+        "size_in_bytes": 2396644
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/flac-mac",
+        "path_type": "hardlink",
+        "sha256": "6abdb7bc838ca70f31403812ed1709f0282cee740c299bb75ed9c0fe2aea3615",
+        "sha256_in_prefix": "6abdb7bc838ca70f31403812ed1709f0282cee740c299bb75ed9c0fe2aea3615",
+        "size_in_bytes": 451168
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/flac-win32.exe",
+        "path_type": "hardlink",
+        "sha256": "0fcc96b4c0dc7990ab0c39dbfbc82faed366c5888f0f4a33f464ea3b79b7f085",
+        "sha256_in_prefix": "0fcc96b4c0dc7990ab0c39dbfbc82faed366c5888f0f4a33f464ea3b79b7f085",
+        "size_in_bytes": 738816
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "fcf5c4e41ae81f704ed70f1511146272ef0f0ca7b97088d11d72896b56a189f5",
+        "sha256_in_prefix": "fcf5c4e41ae81f704ed70f1511146272ef0f0ca7b97088d11d72896b56a189f5",
+        "size_in_bytes": 1537
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/README",
+        "path_type": "hardlink",
+        "sha256": "8b88de980568509c646d0527b8414beef136964391903b40996d32f737bf752e",
+        "sha256_in_prefix": "8b88de980568509c646d0527b8414beef136964391903b40996d32f737bf752e",
+        "size_in_bytes": 1617
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/feat.params",
+        "path_type": "hardlink",
+        "sha256": "8a85ad28696c7f2343444e7633ce30f165fed8740f821954544c6fbd46f4951f",
+        "sha256_in_prefix": "8a85ad28696c7f2343444e7633ce30f165fed8740f821954544c6fbd46f4951f",
+        "size_in_bytes": 165
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/mdef",
+        "path_type": "hardlink",
+        "sha256": "2360f9a86889c1cfee8bd618a0269387911e5fb2920a594f506b18b8c79683b0",
+        "sha256_in_prefix": "2360f9a86889c1cfee8bd618a0269387911e5fb2920a594f506b18b8c79683b0",
+        "size_in_bytes": 2959176
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/means",
+        "path_type": "hardlink",
+        "sha256": "832019e32cac12eb318964f96f469034acb12d0348eeddc3831831a100cb4dd4",
+        "sha256_in_prefix": "832019e32cac12eb318964f96f469034acb12d0348eeddc3831831a100cb4dd4",
+        "size_in_bytes": 838732
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/noisedict",
+        "path_type": "hardlink",
+        "sha256": "7295b07df2c204c4f87c6782b6be1a3859d7006d4e3864181c955d6dab105a33",
+        "sha256_in_prefix": "7295b07df2c204c4f87c6782b6be1a3859d7006d4e3864181c955d6dab105a33",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/sendump",
+        "path_type": "hardlink",
+        "sha256": "8c9564c0d5bef69ca9d9bf1014abe162f071644cf02cf1fa8a483c3dc165a7a8",
+        "sha256_in_prefix": "8c9564c0d5bef69ca9d9bf1014abe162f071644cf02cf1fa8a483c3dc165a7a8",
+        "size_in_bytes": 1969024
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/transition_matrices",
+        "path_type": "hardlink",
+        "sha256": "c1f7f28ea43177be734be1f88bd7f1b9a853d0e660f8599c67c6eaeca8bb539a",
+        "sha256_in_prefix": "c1f7f28ea43177be734be1f88bd7f1b9a853d0e660f8599c67c6eaeca8bb539a",
+        "size_in_bytes": 2080
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/acoustic-model/variances",
+        "path_type": "hardlink",
+        "sha256": "b00d696f85e96834fc10f8e5f06428d8c4db6bffdbe5845b6f69bf6efbc48fa5",
+        "sha256_in_prefix": "b00d696f85e96834fc10f8e5f06428d8c4db6bffdbe5845b6f69bf6efbc48fa5",
+        "size_in_bytes": 838732
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/language-model.lm.bin",
+        "path_type": "hardlink",
+        "sha256": "4ed8f52ed0413045f0e9c65a4709953896b6ff9a99ebc10f7ef926f662c5e506",
+        "sha256_in_prefix": "4ed8f52ed0413045f0e9c65a4709953896b6ff9a99ebc10f7ef926f662c5e506",
+        "size_in_bytes": 29208442
+      },
+      {
+        "_path": "lib/python3.8/site-packages/speech_recognition/pocketsphinx-data/en-US/pronounciation-dictionary.dict",
+        "path_type": "hardlink",
+        "sha256": "ce3bfa364e390b7e48a7483d350a48d9f161127f68428b9c6f9672811fc1134f",
+        "sha256_in_prefix": "ce3bfa364e390b7e48a7483d350a48d9f161127f68428b9c6f9672811fc1134f",
+        "size_in_bytes": 3240807
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "speechrecognition",
+  "sha256": "afbb9e62b3b7df27ec150d629194058a86af45ed5b4000442085b4bb9538c013",
+  "size": 33317170,
+  "subdir": "osx-64",
+  "timestamp": 1602367799787,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/speechrecognition-3.7.1-py38h32f6830_2.tar.bz2",
+  "version": "3.7.1"
+}
